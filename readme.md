@@ -8,7 +8,7 @@ You may continue with the "About Me" page you created when interviewing for this
 
 ## Requirements
 
-**This lab counts as an assignment and is due today at 5pm.**
+**This lab counts as an assignment and is due tomorrow at 9am.**
 
 - Separate concerns of semantics and style: your CSS should be in a linked stylesheet separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
