@@ -4,11 +4,7 @@
 
 Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions.
 
-You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
-
 ## Requirements
-
-**This lab counts as an assignment and is due tomorrow at 9am.**
 
 - Separate concerns of semantics and style: your CSS should be in a linked stylesheet separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
@@ -34,9 +30,9 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 * Wireframe what you want your site to look like first!
 
-* Use proper indentation and organize your code. Chances are people will view your source!
+* **Use proper indentation and organize your code**. Chances are people will view your source!
 
-* You may use Bootstrap or other CSS frameworks. If you do, you're encouraged to start off using it so that you get an idea of how you want your page to look, and then to gradually remove the Bootstrap in favor of CSS you wrote yourself.
+* You may use Bootstrap or other CSS frameworks if you would like but make sure you read thr documentation for it **thoroughly**.
 
 ## Inspiration
 
@@ -69,13 +65,13 @@ We recommend [Namecheap](https://www.namecheap.com/).
 
 If you'd like, try adding some [Sass](http://sass-lang.com/) to your portfolio site.
 
-We'd like you to try using:
+Particuarly, look into using:
 
-- At least three variables
-- At least one mixin
-- The `&` selector
+- variables
+- mixins
+- the`&` selector
 
-Bonus!
+If you want to explore Sass more, look into:
 
 - Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
 - Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
