@@ -8,9 +8,9 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 **Reminder: This is a graded lab assigment**
 
-```
-You must achieve a score of 75% or above to pass this assignment **(6 of 8 requirements)**. If you are unable to complete the lab with at least 6 completed requirements, you will have one week to redo and resubmit the lab.
-```
+
+>You must achieve a score of 75% or above to pass this assignment **(6 of 8 requirements)**. If you are unable to complete the lab with at least 6 completed requirements, you will have one week to redo and resubmit the lab.
+
 
 ### Grading Rubric
 
