@@ -42,7 +42,7 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 ## Tips
 
-- Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy with tons of jQuery plugins, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
+- Think about who you want to view your site (potential employers, freelance opportunities, friends). The most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
 
 - Think about the goal for your site and what you want your users to do (read about your story, look at your work/code/writing, contact you). Guide them to taking those actions by making them prominent / easy to find.
 
@@ -50,7 +50,7 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 - **Use proper indentation and organize your code**. Chances are people will view your source!
 
-- You may use Bootstrap or other CSS frameworks if you would like but make sure you read thr documentation for it **thoroughly**.
+- You may use Bootstrap or other CSS frameworks if you would like but make sure you read through the documentation for it **thoroughly**.
 
 ## Inspiration
 
@@ -83,7 +83,7 @@ We recommend [Namecheap](https://www.namecheap.com/).
 
 If you'd like, try adding some [Sass](http://sass-lang.com/) to your portfolio site.
 
-Particuarly, look into using:
+Particularly, look into using:
 
 - variables
 - mixins
