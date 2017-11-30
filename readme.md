@@ -25,7 +25,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 > You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask the instructor on lab support.
 
 ### Bonus*
-
+- use flexbox
 - use pseudoclasses
 - explore CSS animations
 - try using some JavaScript
