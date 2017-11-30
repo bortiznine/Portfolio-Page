@@ -17,7 +17,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 - Portfolio page [passes the W3 HTML validator](https://validator.w3.org/#validate_by_input)
 - Portfolio page [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 - Student uses git to commit work early and often
-- Student demonstrates separation of concerns: separate html and linked css document
+- Student demonstrates separation of concerns: separate html and linked css documents
 - Student uses semantic HTML elements
 - Portfolio includes at least one image
 - Portfolio includes at least one link to Github, LinkedIn, or other social media
@@ -26,7 +26,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 ### Bonus*
 
-- use a pseudoclass
+- use pseudoclasses
 - explore CSS animations
 - try using some JavaScript
 
