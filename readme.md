@@ -1,4 +1,4 @@
-# Your Personal Portfolio Site
+# Portfolio Pages
 
 ## Instructions
 
@@ -16,7 +16,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 ### Submission
 
-Please **create an issue on this repo, ga-wdi-exercises/portfolio_pages**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdidcstudent/wdidcstudent.github.io`, for example, and **not** `http://wdidcstudent.github.io`.
+Please **create an issue on this repo**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdidcstudent/wdidcstudent.github.io`, for example, and **not** `http://wdidcstudent.github.io`.
 
 ## Pairing with Others
 
@@ -32,7 +32,7 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 * **Use proper indentation and organize your code**. Chances are people will view your source!
 
-* You may use Bootstrap or other CSS frameworks if you would like but make sure you read thr documentation for it **thoroughly**.
+* You may use Bootstrap (or other CSS frameworks) if you would like but make sure you read the documentation for it **thoroughly**.
 
 ## Inspiration
 
@@ -56,20 +56,11 @@ You can also Google "developer portfolio website" for more ideas :)
 
 ## Bonus!
 
-* Use flexbox
 * Use pseudoclasses
 * Explore CSS animations
 * Try using some JavaScript
 
-## Domains (Optional)
-
-If you'd like, you can purchase a domain and then "point" the domain to your Github Pages repo. Here are instructions on how to do so:
-
-https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
-
-We recommend [Namecheap](https://www.namecheap.com/).
-
-## Sass (Optional)
+### Sass
 
 If you'd like, try adding some [Sass](http://sass-lang.com/) to your portfolio site.
 
@@ -77,7 +68,7 @@ Particuarly, look into using:
 
 - variables
 - mixins
-- the`&` selector
+- the `&` selector
 
 If you want to explore Sass more, look into:
 
