@@ -16,7 +16,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 ### Submission
 
-Please **create an issue on this repo**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdidcstudent/wdidcstudent.github.io`, for example, and **not** `http://wdidcstudent.github.io`.
+Please **create an issue on this repo**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/seidcstudent/seidcstudent.github.io`, for example, and **not** `http://seidcstudent.github.io`.
 
 ## Pairing with Others
 
@@ -36,7 +36,7 @@ Every student must create their *own* website, but you're **welcome and encourag
 
 ## Inspiration
 
-Personal websites from some previous WDI grads:
+Personal websites from some previous SEI grads:
 
 * http://bnmrrs.com/
 * http://raleighdaniel.com/
