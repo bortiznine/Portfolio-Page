@@ -8,7 +8,7 @@ You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-int
 
 
 1. In your `sei/labs` directory create a new folder called `portfolio`. Create `index.html` and `styles.css` file. Remember to link up the css file.
-1. Create a new GitHub repository on your **Public GitHub profile** named `portfolio` and link it to your local `sei/labs/portfolio` directory. The set-up steps will be the same as we walked through yesterday. We'll use your public GitHub so that you can share out your publically deployed website on GitHub Pages.
+1. Create a new GitHub repository on your **Public GitHub profile** named `portfolio` and link it to your local `sei/labs/portfolio` directory. The set-up steps will be the same as we walked through yesterday. We'll use your public GitHub so that you can share out your publicly deployed website on GitHub Pages.
 
 
 ## Requirements
