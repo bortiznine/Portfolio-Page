@@ -1,0 +1,51 @@
+body {
+    min-height: 100vh;
+    margin: 0 auto;
+    min-height: 100vh;
+    margin: 0 auto;
+    font-size: 16px;
+    font-family: 'DotGothic16', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url("https://th.bing.com/th/id/R51a9f353e472e2dc2812682632a24076?rik=w3fmtGZj3Pb7BA&riu=http%3a%2f%2fidmmag.com%2fwp-content%2fuploads%2f2015%2f08%2fDEEP-HOUSERE.jpg&ehk=f8i5gvQPcv3zNt4yPSbAhsvalp5lM6usKocil9M0pts%3d&risl=&pid=ImgRaw");
+background-repeat: inherit;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 30px;
+    background: #000000;
+    color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+}
+
+main {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+section {
+    width: 150px;
+    background-image: url("https://wallpapercave.com/wp/SIEupmd.jpg");
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    border-radius: 20px;
+    border-color: white;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+}
+@media screen and (max-width: 600px) {
+    main {
+        flex-direction: column;
+    }
+
+    section {
+        order: 1;
+    }
+}
