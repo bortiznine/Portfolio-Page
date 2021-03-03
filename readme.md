@@ -23,7 +23,7 @@ You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-int
 
 ### Submission
 
-Please **create an issue on this repo**, containing a link to the **repo** you created and your **GitHub Pages URL**.
+[Please **create an issue on this repo**](https://git.generalassemb.ly/java-interapt/Portfolio-Pages-Lab/issues/new), containing a link to the **repo** you created and your **GitHub Pages URL**.
 
 ## Pairing with Others
 
