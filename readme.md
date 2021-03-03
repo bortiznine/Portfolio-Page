@@ -2,12 +2,14 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions.
+Create a personal portfolio page and deploy it to [Github pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). Please refer to the documentation on GitHub for detailed instructions. **We will walk you through GitHub Pages deployment tomorrow**.
 
-1. You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt/Git-Intro-Lesson) for reference. 
+You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt/Git-Intro-Lesson) for reference to get started.
+
+
 1. In your `sei/labs` directory create a new folder called `portfolio`. Create `index.html` and `styles.css` file. Remember to link up the css file.
-1. Create a new GitHub repository on your GA Enterprise GitHub profile named `portfolio` and link it to your local `sei/labs/portfolio` directory.
-1. After you push to GitHub Enterprise, go to settings. Scroll down to 
+1. Create a new GitHub repository on your **Public GitHub profile** named `portfolio` and link it to your local `sei/labs/portfolio` directory. The set-up steps will be the same as we walked through yesterday. We'll use your public GitHub so that you can share out your publically deployed website on GitHub Pages.
+
 
 ## Requirements
 
@@ -17,7 +19,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 - Javascript isn't required, but you get bonus points for giving it a shot!
 - Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. 
 
-> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask the instructor on lab support.
+> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site). If you run into any issues, just ask the instructor on lab support. If you want to give it a shot go for it, but **we will walk you through GitHub Pages deployment tomorrow**.
 
 ### Submission
 
