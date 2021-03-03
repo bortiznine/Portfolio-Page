@@ -11,7 +11,10 @@ body {
     background-image: url("https://th.bing.com/th/id/R51a9f353e472e2dc2812682632a24076?rik=w3fmtGZj3Pb7BA&riu=http%3a%2f%2fidmmag.com%2fwp-content%2fuploads%2f2015%2f08%2fDEEP-HOUSERE.jpg&ehk=f8i5gvQPcv3zNt4yPSbAhsvalp5lM6usKocil9M0pts%3d&risl=&pid=ImgRaw");
 background-repeat: inherit;
 }
-
+a:link {color: white;}
+a:active { color: white; }
+a:visited { color: hotpink; }
+a:hover { color: silver; }
 header,
 footer {
     width: 100%;
@@ -29,7 +32,7 @@ main {
 }
 
 section {
-    width: 150px;
+    width: 230px;
     background-image: url("https://wallpapercave.com/wp/SIEupmd.jpg");
     background-position: center;
     background-size: cover;
@@ -39,6 +42,36 @@ section {
     margin: 5px;
     text-align: center;
     line-height: 100px;
+    font-size: 24px;
+
+}
+p{
+    width: 600px;
+    position: relative;
+    background-color: silver;
+    background-size: cover;
+    color: #ffffff;
+    border-radius: 20px;
+    border-color: white;
+    margin: 5px;
+    text-align: center;
+    text-wrap: normal;
+    line-height: 36px;
+    font-size: 20px;
+}
+ol{
+    width: 500px;
+    position: relative;
+    background-color: #1a1717;
+    background-size: cover;
+    color: #ffffff;
+    border-radius: 20px;
+    border-color: white;
+    margin: 5px;
+    text-align: center;
+    text-wrap: normal;
+    line-height: 36px;
+    font-size: 20px;
 }
 @media screen and (max-width: 600px) {
     main {
