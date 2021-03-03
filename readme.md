@@ -4,6 +4,11 @@
 
 Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions.
 
+1. You can use yesterday's [Git Intro Lesson](https://git.generalassemb.ly/java-interapt/Git-Intro-Lesson) for reference. 
+1. In your `sei/labs` directory create a new folder called `portfolio`. Create `index.html` and `styles.css` file. Remember to link up the css file.
+1. Create a new GitHub repository on your GA Enterprise GitHub profile named `portfolio` and link it to your local `sei/labs/portfolio` directory.
+1. After you push to GitHub Enterprise, go to settings. Scroll down to 
+
 ## Requirements
 
 - Separate concerns of semantics and style: your CSS should be in a linked stylesheet separate from your HTML.
